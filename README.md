@@ -16,7 +16,7 @@
 -  [CHRISTOPHER MEZERA](http://christophermezera.com/)
 -  [ALMARJAN ISLAND](http://almarjanisland.com/)
 
-### TECH I CAN WORK WITH
+### TECH AND CMS I CAN WORK WITH
 `HTML5` `CSS3` `BOOTSTRAP`  
 `JQUERY` `JAVASCRIPT` `ANGULAR`  
 `REACT` `VUE` `PHP`  
