@@ -29,8 +29,9 @@
 `WEBPACK`  
 `NPM`  
 `SUBLIME`  
-`VSCODE`
+`VSCODE`  
 
+> There is no secret to seccess, It is the result of preparation, Hard work, and learnign from the failure. | `Ali Murtaza`
 
 
 
