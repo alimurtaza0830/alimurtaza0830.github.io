@@ -1,5 +1,5 @@
 
-## RECENT WORKS 
+### RECENT WORKS 
 -  [CYBERVIEW](http://cyberview.com.my/)  
 -  [FORD](https://www.sdacford.com.my/)  
 -  [CIMB SINGAPORE](https://www.cimbbank.com.sg/en/personal/index.html)  
@@ -17,4 +17,12 @@
 -  [ALMARJAN ISLAND](http://almarjanisland.com/)
 
 ### TECH I CAN WORK WITH
-`HTML5` | `CSS3` | `BOOTSTRAP` | `JQUERY` | `ANGULAR` | `REACT` | `VUE` | `PHP` | `LARAVEL` | `JOOMLA` | `WORDPRESS` | `XTOPIA-CMS` | `SITEFINITY` | `AEM`
+`HTML5` | `CSS3` | `BOOTSTRAP` | `JQUERY` | `JAVASCRIPT`   | `ANGULAR` | `REACT` | `VUE` | `PHP` | `LARAVEL` |   `JOOMLA` | `WORDPRESS` | `XTOPIA-CMS` | `SITEFINITY` | `AEM`  
+
+### TOOLS
+`GULP.JS`  
+`WEBPACK` 
+
+
+
+
