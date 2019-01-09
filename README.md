@@ -1,2 +1,2 @@
-# TO SEE THE COMPLETE RESUME [link text itself]: http://www.alimurtaza.netlify.com
+# TO SEE THE COMPLETE RESUME [https://www.alimurtaza.netlify.com "Ali Resume"]
 
