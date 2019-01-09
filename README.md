@@ -11,5 +11,6 @@
 -  [MOCA UAE](http://mocauae.ae/)
 -  [OASIS TRAVEL](https://www.oasistraveluae.com/)
 -  [HAYS ACCOUNTANTS](http://www.hayes-accountants.co.uk/)
+-  [DECOR ARTISANS](http://decorartisans.com/rent-a-bouquet)
 
 ### Stack I can work with
