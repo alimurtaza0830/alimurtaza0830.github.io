@@ -6,14 +6,12 @@
 -  [FUTURISE](http://futurise.com.my/)
 -  [RHB GROUP](https://www.rhbgroup.com/)
 
-### PAST WORKS  
 -  [GALAXY SOUQ](https://galaxysouq.com/)
 -  [MOCA UAE](http://mocauae.ae/)
 -  [OASIS TRAVEL](https://www.oasistraveluae.com/)
 -  [HAYS ACCOUNTANTS](http://www.hayes-accountants.co.uk/)
 -  [DECOR ARTISANS](http://decorartisans.com/rent-a-bouquet)
 -  [IDAHOS PREMIER](http://www.quickrealtor.com/)
--  [CHRISTOPHER MEZERA](http://christophermezera.com/)
 -  [ALMARJAN ISLAND](http://almarjanisland.com/)
 
 ### TECH AND CMS I CAN WORK WITH
