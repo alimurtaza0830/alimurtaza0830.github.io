@@ -6,6 +6,9 @@
 -  [FUTURISE](http://futurise.com.my/)
 -  [RHB GROUP](https://www.rhbgroup.com/)
 
+### PERSONAL
+-  [PHONE STORE](https://phonestore-reactjs.netlify.com/)
+
 -  [GALAXY SOUQ](https://galaxysouq.com/)
 -  [MOCA UAE](http://mocauae.ae/)
 -  [OASIS TRAVEL](https://www.oasistraveluae.com/)
