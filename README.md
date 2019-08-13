@@ -1,6 +1,5 @@
 
-### MY ACCOMPLISHED WORKS
--------------------------
+### OFFICIAL WORKS
 
 -  [CYBERVIEW](http://cyberview.com.my/)  
 -  [FORD](https://www.sdacford.com.my/)  
@@ -14,28 +13,21 @@
 -  [OASIS TRAVEL](https://www.oasistraveluae.com/)
 
 ### PERSONAL WORKS AND SNIPPETS
------------------------------------
 
 -  [REACT PHONE STORE](https://phonestore-reactjs.netlify.com/)
 -  [REACT - CRUD](https://todo-crud-react.netlify.com/)
 -  [REACT - PHOTOALBUM](https://react-photoalbum.netlify.com/)
 -  [IDAHOS PREMIER](http://www.quickrealtor.com/)
 -  [ALMARJAN ISLAND](http://almarjanisland.com/)
--  [HAYS ACCOUNTANTS](http://www.hayes-accountants.co.uk/)
 -  [DECOR ARTISANS](http://decorartisans.com/rent-a-bouquet)
 
-### TECH AND CMS I CAN WORK WITH
+### TOOLKIT
+
+`HTML5` `CSS3` `BOOTSTRAP` `JQUERY` `JAVASCRIPT` 
+`REACT` `VUE` `PHP` `WORDPRESS` `XTOPIA-CMS` `SITEFINITY`
 --------------------------------
-**HTML5` `CSS3` `BOOTSTRAP` `JQUERY` `JAVASCRIPT` `ANGULAR` 
-`REACT` `VUE` `PHP` `LARAVEL` `JOOMLA` `WORDPRESS` `XTOPIA-CMS` `SITEFINITY` `AEM**
+`GULP.JS` `WEBPACK` `SUBLIME` `VSCODE`
 
-### TOOLS AND EDITORS
----------------------
-**GULP.JS` `WEBPACK` `NPM`  
-`SUBLIME`  
-`VSCODE**  
-
-> There is no secret to success, It is the result of preparation, Hard work, and learnign from the failure. `Ali Murtaza`
 
 
 
