@@ -1,9 +1,0 @@
-section.page-header { display: none !important;}
-
-h3 {
-    color: #000 !important;
-    text-align: center;
-		background: lightgray;
-		padding: 10px;
-}
-.main-content ul li { list-style: none; line-height: 2em; }
