@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-@import "{{ styles.css }}";
+title: [Ali Murtaza]
+description: [Front End Coder and Developer]
