@@ -16,6 +16,7 @@
 
 -  [REACT PHONE STORE](https://phonestore-reactjs.netlify.com/)
 -  [REACT - CRUD](https://todo-crud-react.netlify.com/)
+-  [SINGLE PAGE TEMPATE](https://singlepagetemplate.netlify.com/)
 -  [REACT - PHOTOALBUM](https://react-photoalbum.netlify.com/)
 -  [IDAHOS PREMIER](http://www.quickrealtor.com/)
 -  [ALMARJAN ISLAND](http://almarjanisland.com/)
