@@ -14,6 +14,7 @@
 -  [PHONE STORE - (REACT & CONTEXT)](https://phonestore-reactjs.netlify.com/)
 -  [C.R.U.D - (REACT, LOCALSTORAGE)](https://todo-crud-react.netlify.com/)
 -  [SINGLE PAGE TEMPATE - (REACT)](https://singlepagetemplate.netlify.com/)
+-  [MOVIE LISTING APPLICATION - (REACT)](https://sample-video-rental-app-react.netlify.com/movies)
 -  [IDAHOS PREMIER - (CODEIGNITOR)](http://www.quickrealtor.com/)
 -  [ALMARJAN ISLAND - (WORDPRESS)](http://almarjanisland.com/)
 -  [DECOR ARTISANS - (OPENCART)](http://decorartisans.com/rent-a-bouquet)
