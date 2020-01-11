@@ -11,14 +11,14 @@
 
 ### REACT.JS AND OTHER
 
--  [PHONE STORE - (REACT & CONTEXT)](https://phonestore-reactjs.netlify.com/)
--  [Propertylisting - (REACT)](https://aweinproperties.netlify.com/)
--  [SINGLE PAGE TEMPATE - (REACT)](https://singlepagetemplate.netlify.com/)
--  [MOVIE LISTING APPLICATION - (REACT)](https://sample-video-rental-app-react.netlify.com/movies)
+-  [PHONE STORE - (REACT & CONTEXT)](https://phonestore-reactjs.netlify.com/) - [View on Github](https://github.com/alimurtazarabi/react-phonestore.git)
+-  [Propertylisting - (REACT)](https://aweinproperties.netlify.com/) - [View on Github](https://github.com/alimurtazarabi/propertylisting.git)
+-  [SINGLE PAGE TEMPATE - (REACT)](https://singlepagetemplate.netlify.com/) - [View on Github](https://github.com/alimurtazarabi/singlepagetemplate.git)
+-  [MOVIE LISTING APPLICATION - (REACT)](https://sample-video-rental-app-react.netlify.com/movies) - [View on Github](https://github.com/alimurtazarabi/react-movie-app-vidly.git)
 -  [C.R.U.D - (REACT, LOCALSTORAGE)](https://todo-crud-react.netlify.com/)
--  [IDAHOS PREMIER - (CODEIGNITOR)](http://www.quickrealtor.com/)
--  [ALMARJAN ISLAND - (WORDPRESS)](http://almarjanisland.com/)
--  [DECOR ARTISANS - (OPENCART)](http://decorartisans.com/rent-a-bouquet)
+-  [IDAHOS PREMIER - (PHP - CODEIGNITOR)](http://www.quickrealtor.com/)
+-  [ALMARJAN ISLAND - (PHP / WORDPRESS)](http://almarjanisland.com/)
+-  [DECOR ARTISANS - (PHP - OPENCART)](http://decorartisans.com/rent-a-bouquet)
 -  [OASIS TRAVEL - (CUSTOM FROM SCRATCH)](https://www.oasistraveluae.com/)
 -  [MOCA UAE - (CUSTOM FROM SCRATCH)](http://mocauae.ae/)
 
