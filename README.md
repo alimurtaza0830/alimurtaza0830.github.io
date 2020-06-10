@@ -15,7 +15,6 @@
 -  [Propertylisting - (REACT)](https://aweinproperties.netlify.com/) - [View on Github](https://github.com/alimurtazarabi/propertylisting.git)
 -  [SINGLE PAGE TEMPATE - (REACT)](https://singlepagetemplate.netlify.com/) - [View on Github](https://github.com/alimurtazarabi/singlepagetemplate.git)
 -  [MOVIE LISTING APPLICATION - (REACT)](https://sample-video-rental-app-react.netlify.com/movies) - [View on Github](https://github.com/alimurtazarabi/react-movie-app-vidly.git)
--  [C.R.U.D - (REACT, LOCALSTORAGE)](https://todo-crud-react.netlify.com/)
 -  [IDAHOS PREMIER - (PHP - CODEIGNITOR)](http://www.quickrealtor.com/)
 -  [ALMARJAN ISLAND - (PHP / WORDPRESS)](http://almarjanisland.com/)
 -  [DECOR ARTISANS - (PHP - OPENCART)](http://decorartisans.com/rent-a-bouquet)
@@ -27,10 +26,10 @@
 
 ### TECHNOLOGY STACK
 
-`HTML5` `CSS3` `BOOTSTRAP` `JQUERY` `JAVASCRIPT` 
-`REACT` `VUE` `PHP` `WORDPRESS` `XTOPIA-CMS` `SITEFINITY`
+`HTML5` `CSS3` `SASS` `BOOTSTRAP` `JQUERY` `JAVASCRIPT` 
+`REACT` `VUE` `PHP` `WORDPRESS` `LARAVEL` `SITEFINITY`
 --------------------------------
-`GULP.JS` `WEBPACK` `SUBLIME` `VSCODE`
+`GULP.JS` `WEBPACK` `SUBLIME` `VSCODE` `PHPSTORM`
 
 
 
