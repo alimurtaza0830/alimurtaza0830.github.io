@@ -6,7 +6,7 @@
 -  [CIMB SINGAPORE - (AEM)](https://www.cimbbank.com.sg/en/personal/index.html)  
 -  [FUTURISE - (CUSTOM FROM SCRATCH)](http://futurise.com.my/)
 -  [SMARTMOMENTS - (WORDPRESS)](https://smartmoments.com.my/)
--  [RHB GROUP - (CUSTOM FROM SCRATCH)](https://art-and-dalvik-alliance-bizsmart.netlify.com/_sitemap.html)
+-  [RHB GROUP - (CUSTOM FROM SCRATCH)](https://www.rhbgroup.com/index.html)
 -  [Salesworks - (CUSTOM FROM SCRATCH)](https://art-and-dalvik-salesworks.netlify.com/) / [Supportworks - (REPLICA)](https://art-and-dalvik-supportworks.netlify.com/)
 
 ### REACT.JS AND OTHER SNIPPETS
